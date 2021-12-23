@@ -2,7 +2,7 @@
 
 Trabalho proposto pela professora Luciana Balieiro Cosme, na disciplina de Algoritmos e Estrutura de Dados 2, desenvolvido pelo aluno Thiago Emanuel Silva Antunes Lopes, estudante do curso de Bacharelado em Ciência da Computação do IFNMG Campus Montes Claros.
 
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 
 Para executar o projeto é nescessario ter instalado a IDE Code Blocks.
 
