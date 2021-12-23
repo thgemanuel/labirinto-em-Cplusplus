@@ -12,7 +12,7 @@ Trabalho feito com o objetivo de criar um algoritmo que encotra a saida de um la
 
 ## 🛠️ Construído com
 
-* [Colaboratory](https://research.google.com/colaboratory/) - Colaboratory Notebook
+* [Code::Blocks](https://www.codeblocks.org/) - Code::Blocks
 
 ## ✒️ Autores
 
